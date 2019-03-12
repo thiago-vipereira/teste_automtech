@@ -1,0 +1,5 @@
+connection\ConexaoJDBC.class
+DAO\CadastroDAO.class
+controller\CadastroController.class
+project\teste\Principal.class
+model\Cadastro.class
